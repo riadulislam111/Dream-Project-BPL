@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://i.ibb.co.com/fYRmKbhN/Mohammad-Naim-Sheikh.jpg",
+    "player-name": "Mohammad Naim Sheikh",
+    "player-country": "Bangladesh",
+    "playing-role": "Opening Batter",
+    "rating": 9.2,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "N/A",
+    "price": "BDT 1.1 Crore"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/VcfBdMwD/67719.webp",
+    "player-name": "Towhid Hridoy",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 8.9,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 92 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/svZp66Pg/59067.webp",
+    "player-name": "Dasun Shanaka",
+    "player-country": "Sri Lanka",
+    "playing-role": "All-rounder",
+    "rating": 8.4,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": "USD 55,000"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/MyG3bDbY/37360.webp",
+    "player-name": "Litton Das",
+    "player-country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": 9.1,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "N/A",
+    "price": "BDT 70 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/mrqxQ1t5/images.jpg",
+    "player-name": "Mohammad Saifuddin",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 7.8,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm fast-medium",
+    "price": "BDT 68 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/JwPJhYRJ/89235.webp",
+    "player-name": "Nahid Rana",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 8.5,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "BDT 56 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/HfQwGFqs/5151005b2b4576b1d7c348bf322237e4.jpg",
+    "player-name": "Habibur Rahman Sohan",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 8.0,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "N/A",
+    "price": "BDT 50 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/Nn2QNstS/63752.webp",
+    "player-name": "Shoriful Islam",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 9.4,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm medium-fast",
+    "price": "BDT 44 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/2YmD3J4z/385790-1.webp",
+    "player-name": "Mushfiqur Rahim",
+    "player-country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": 8.2,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "N/A",
+    "price": "BDT 35 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/ccW7Py2g/Mahmudullah-Riyad-on-practice-session-16-cropped.jpg",
+    "player-name": "Mahmudullah Riyad",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 7.5,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 35 Lakh"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/9Hyd5846/images-1.jpg",
+    "player-name": "Taskin Ahmed",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 9.3,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "Direct Signing"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/gMFfGXwr/1197-camedia.png",
+    "player-name": "Niroshan Dickwella",
+    "player-country": "Sri Lanka",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": 7.2,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "N/A",
+    "price": "USD 35,000"
+  }
+]
