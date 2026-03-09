@@ -2,7 +2,7 @@ import React, { use } from 'react';
 import PlayerCard from '../PlayerCard/playerCard';
 
 
-const AvailablePlayers = ({playersPromise, setAvailableBalance, availableBalance}) => {
+const AvailablePlayers = ({playersPromise, setAvailableBalance, availableBalance,setPurchasedPlayers, purchasedPlayers}) => {
 
  const playerData = use(playersPromise)
  console.log(playerData)
@@ -11,7 +11,7 @@ const AvailablePlayers = ({playersPromise, setAvailableBalance, availableBalance
         
         <div className="navbar max-w[1200px] mx-auto grid grid-cols-1 md:grid-cols-3 gap-4">
            {
-            playerData.map(player=><PlayerCard availableBalance={availableBalance} setAvailableBalance={setAvailableBalance} player={player}></PlayerCard>)
+            playerData.map(player=><PlayerCard setPurchasedPlayers={setPurchasedPlayers} purchasedPlayers={purchasedPlayers} availableBalance={availableBalance} setAvailableBalance={setAvailableBalance} player={player}></PlayerCard>)
            }
         </div>
     );

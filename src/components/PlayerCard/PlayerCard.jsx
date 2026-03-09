@@ -11,7 +11,8 @@ const PlayerCard = ({ player, setAvailableBalance, availableBalance }) => {
             return
         }
         setIsSelected(true)
-                            setAvailableBalance(availableBalance - playerPrice)
+                            setAvailableBalance(availableBalance - playerPrice);
+                            setPurchasedPlayers([...setPurchasedPlayers, playerData])
      }
 
 
